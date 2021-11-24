@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\ТиСД\Лаб1\Lab5Pattern\bin\Debug\netcoreapp3.1\Lab5Pattern.exe
+C:\Users\User\Desktop\ТиСД\Лаб1\Lab5Pattern\bin\Debug\netcoreapp3.1\Lab5Pattern.deps.json
+C:\Users\User\Desktop\ТиСД\Лаб1\Lab5Pattern\bin\Debug\netcoreapp3.1\Lab5Pattern.runtimeconfig.json
+C:\Users\User\Desktop\ТиСД\Лаб1\Lab5Pattern\bin\Debug\netcoreapp3.1\Lab5Pattern.runtimeconfig.dev.json
+C:\Users\User\Desktop\ТиСД\Лаб1\Lab5Pattern\bin\Debug\netcoreapp3.1\Lab5Pattern.dll
+C:\Users\User\Desktop\ТиСД\Лаб1\Lab5Pattern\bin\Debug\netcoreapp3.1\Lab5Pattern.pdb
+C:\Users\User\Desktop\ТиСД\Лаб1\Lab5Pattern\obj\Debug\netcoreapp3.1\Lab5Pattern.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ТиСД\Лаб1\Lab5Pattern\obj\Debug\netcoreapp3.1\Lab5Pattern.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ТиСД\Лаб1\Lab5Pattern\obj\Debug\netcoreapp3.1\Lab5Pattern.AssemblyInfo.cs
+C:\Users\User\Desktop\ТиСД\Лаб1\Lab5Pattern\obj\Debug\netcoreapp3.1\Lab5Pattern.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ТиСД\Лаб1\Lab5Pattern\obj\Debug\netcoreapp3.1\Lab5Pattern.dll
+C:\Users\User\Desktop\ТиСД\Лаб1\Lab5Pattern\obj\Debug\netcoreapp3.1\Lab5Pattern.pdb
+C:\Users\User\Desktop\ТиСД\Лаб1\Lab5Pattern\obj\Debug\netcoreapp3.1\Lab5Pattern.genruntimeconfig.cache
